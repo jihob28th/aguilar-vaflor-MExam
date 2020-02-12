@@ -10,7 +10,7 @@
              <img src="Images/logo01.png" style='height: 100px; width: 30%;' />
                 
                 <div class="about">
-                           test
+                         "GET YOUR HEAD IN THE GAME!"
                 </div><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
                 </div>
             <div class="body">
